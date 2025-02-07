@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
         id: 1,
-        img: "",
+        img: null,
         title: "Summer Sale",
         description:
             "Don't compromise on style! Get flat 25% off for new arrivals.",
@@ -9,7 +9,7 @@ export const sliderItems = [
     },
     {
         id: 2,
-        img: "",
+        img: null,
         title: "Winter Sale",
         description:
             "Don't compromise on style! Get flat 25% off for new arrivals.",
@@ -17,7 +17,7 @@ export const sliderItems = [
     },
     {
         id: 3,
-        img: "",
+        img: null,
         title: "Popular Sale",
         description:
             "Don't compromise on style! Get flat 25% off for new arrivals.",

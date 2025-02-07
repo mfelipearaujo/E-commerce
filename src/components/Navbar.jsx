@@ -71,7 +71,7 @@ const Navbar = () => {
                     </SearchContainer>
                 </Left>
                 <Center>
-                    <Logo>Nerd Store</Logo>
+                    <Logo>Nerd Vault</Logo>
                 </Center>
                 <Right>
                     <MenuItem>Register</MenuItem>
